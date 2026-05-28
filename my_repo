@@ -2,3 +2,7 @@ resource "azurerm_resource_group"n"{
 name = "ss"
 location = "west us"
 }
+resource "azurerm_resource_group"nn"{
+name = "sss"
+location = "east us"
+}
